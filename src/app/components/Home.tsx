@@ -1,5 +1,4 @@
 import { useEffect, useState } from "react";
-import Reveal from "../lib/Reveal";
 
 function Home() {
     const fullText = "Senior Full Stack Software Engineer | Cloud-Native Backend & Scalable Web Systems (C#, Python, React, AWS/Azure)";
@@ -36,7 +35,7 @@ function Home() {
     return (
         <section id="home" className="snap-section-home flex items-center">
             <div className="max-w-5xl mx-auto px-6 text-center space-y-6">
-                <h1 className="text-6xl md:text-8xl font-bold ">Hi, I'm Jason Deleo</h1>
+                <h1 className="text-6xl md:text-8xl font-bold ">Hi, I&apos;m Jason Deleo</h1>
                 <p className="text-xl md:text-2xl text-white/70 caret-after">{typed}</p>
             </div>
         </section>

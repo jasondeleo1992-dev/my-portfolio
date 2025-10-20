@@ -7,7 +7,7 @@ function Contact() {
           <div className="flex justify-end text-lg">
             <div className="max-w-3xl">
               <p>
-                I'm currently open to new opportunities and collaborations. Whether you have a question, a project idea, or just want to say hello, feel free to reach out!
+                I&apos;m currently open to new opportunities and collaborations. Whether you have a question, a project idea, or just want to say hello, feel free to reach out!
               </p>
               <p className="mt-4">
                 You can contact me via email at{" "}

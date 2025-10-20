@@ -1,5 +1,3 @@
-import { useEffect, useRef, useState } from "react";
-
 function About() {
     return (
         <section id="about" className="snap-section flex items-center">
