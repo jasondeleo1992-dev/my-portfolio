@@ -36,7 +36,7 @@ function Contact() {
                   GitHub
                 </a>
                 <a
-                  href="https://t.me/Jason_deleo"
+                  href="https://t.me/jasondeleo1992"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-sky-400 hover:underline"
